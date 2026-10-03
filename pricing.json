@@ -2,7 +2,7 @@
   "repo": "video-api-gateway-free-tier",
   "model": null,
   "route": "gateway",
-  "variant": "video-api-gateway-free-tier",
+  "variant": "video-api-gateway",
   "snapshot": "2026-09-28",
   "unit": "mixed",
   "tiers": {
